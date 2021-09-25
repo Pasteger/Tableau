@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tableau</string>
+    <string name="add">Добавить</string>
+    <string name="reset">Сброс</string>
+    <string name="title">Дружественный футбольный матч сборных команд конкурирующих организаций</string>
+    <string name="goc">ГОК</string>
+    <string name="scp">SCP</string>
+    <string name="scp_point">0</string>
+    <string name="goc_point">0</string>
+</resources>
